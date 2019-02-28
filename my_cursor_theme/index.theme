@@ -1,0 +1,5 @@
+[Icon Theme]
+Name=my_cursor_theme
+Comment= 2019
+Example=left_ptr
+Inherits=core
